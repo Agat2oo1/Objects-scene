@@ -1,0 +1,2 @@
+C:\Users\agata\source\repos\TrianglesFilller\obj\Debug\ObjParser.csproj.AssemblyReference.cache
+C:\Users\agata\source\repos\TrianglesFilller\obj\Debug\ObjParser.csproj.CoreCompileInputs.cache

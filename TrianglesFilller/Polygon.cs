@@ -155,8 +155,6 @@ namespace TrianglesFilller
             float s;
             float z = ZValue(x, y); // tu jeszcze do mgły odjąć albo dodać Z kamery!!!
             float f = 0;
-            float Start = 10f;    // Linear fog distances
-            float End = 100f;
 
             if (ProjectData.fog)
             {
